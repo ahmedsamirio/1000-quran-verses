@@ -1,0 +1,115 @@
+number,name,transliteration_en,translation_en,total_verses,revelation_type,total_words,total_chars,word_per_verse,char_per_verse
+1,سورة الفاتحة,Al-Faatiha,The Opening,7,Meccan,29,146,4.142857142857143,20.857142857142858
+2,سورة البقرة,Al-Baqara,The Cow,286,Medinan,6120,27713,21.3986013986014,96.8986013986014
+3,سورة آل عمران,Aal-i-Imraan,The Family of Imraan,200,Medinan,3485,15736,17.425,78.68
+4,سورة النساء,An-Nisaa,The Women,176,Medinan,3751,17196,21.3125,97.70454545454545
+5,سورة المائدة,Al-Maaida,The Table,120,Medinan,2808,12910,23.4,107.58333333333333
+6,سورة الأنعام,Al-An'aam,The Cattle,165,Meccan,3054,13460,18.509090909090908,81.57575757575758
+7,سورة الأعراف,Al-A'raaf,The Heights,206,Meccan,3324,15312,16.135922330097088,74.33009708737865
+8,سورة الأنفال,Al-Anfaal,The Spoils of War,75,Medinan,1237,5715,16.493333333333332,76.2
+9,سورة التوبة,At-Tawba,The Repentance,129,Medinan,2498,11668,19.364341085271317,90.44961240310077
+10,سورة يونس,Yunus,Jonas,109,Meccan,1837,8049,16.853211009174313,73.8440366972477
+11,سورة هود,Hud,Hud,123,Meccan,1921,8315,15.617886178861788,67.60162601626017
+12,سورة يوسف,Yusuf,Joseph,111,Meccan,1781,7769,16.045045045045047,69.990990990991
+13,سورة الرعد,Ar-Ra'd,The Thunder,43,Medinan,857,3760,19.930232558139537,87.44186046511628
+14,سورة ابراهيم,Ibrahim,Abraham,52,Meccan,834,3726,16.03846153846154,71.65384615384616
+15,سورة الحجر,Al-Hijr,The Rock,99,Meccan,659,3026,6.656565656565657,30.565656565656564
+16,سورة النحل,An-Nahl,The Bee,128,Meccan,1848,8204,14.4375,64.09375
+17,سورة الإسراء,Al-Israa,The Night Journey,111,Meccan,1560,7011,14.054054054054054,63.16216216216216
+18,سورة الكهف,Al-Kahf,The Cave,110,Meccan,1583,6929,14.39090909090909,62.99090909090909
+19,سورة مريم,Maryam,Mary,98,Meccan,965,4126,9.846938775510203,42.10204081632653
+20,سورة طه,Taa-Haa,Taa-Haa,135,Meccan,1339,5781,9.91851851851852,42.82222222222222
+21,سورة الأنبياء,Al-Anbiyaa,The Prophets,112,Meccan,1173,5382,10.473214285714286,48.05357142857143
+22,سورة الحج,Al-Hajj,The Pilgrimage,78,Medinan,1278,5606,16.384615384615383,71.87179487179488
+23,سورة المؤمنون,Al-Muminoon,The Believers,118,Meccan,1054,4709,8.932203389830509,39.90677966101695
+24,سورة النور,An-Noor,The Light,64,Medinan,1320,6092,20.625,95.1875
+25,سورة الفرقان,Al-Furqaan,The Criterion,77,Meccan,897,4080,11.64935064935065,52.98701298701299
+26,سورة الشعراء,Ash-Shu'araa,The Poets,227,Meccan,1322,5900,5.823788546255507,25.991189427312776
+27,سورة النمل,An-Naml,The Ant,93,Meccan,1155,5070,12.419354838709678,54.516129032258064
+28,سورة القصص,Al-Qasas,The Stories,88,Meccan,1434,6301,16.295454545454547,71.60227272727273
+29,سورة العنكبوت,Al-Ankaboot,The Spider,69,Meccan,980,4578,14.202898550724637,66.34782608695652
+30,سورة الروم,Ar-Room,The Romans,60,Meccan,821,3702,13.683333333333334,61.7
+31,سورة لقمان,Luqman,Luqman,34,Meccan,550,2278,16.176470588235293,67.0
+32,سورة السجدة,As-Sajda,The Prostration,30,Meccan,376,1666,12.533333333333333,55.53333333333333
+33,سورة الأحزاب,Al-Ahzaab,The Clans,73,Medinan,1291,6043,17.684931506849313,82.78082191780823
+34,سورة سبإ,Saba,Sheba,54,Meccan,887,3813,16.425925925925927,70.61111111111111
+35,سورة فاطر,Faatir,The Originator,45,Meccan,779,3398,17.31111111111111,75.5111111111111
+36,سورة يس,Yaseen,Yaseen,83,Meccan,729,3215,8.783132530120483,38.734939759036145
+37,سورة الصافات,As-Saaffaat,Those drawn up in Ranks,182,Meccan,865,4087,4.752747252747253,22.456043956043956
+38,سورة ص,Saad,The letter Saad,88,Meccan,737,3260,8.375,37.04545454545455
+39,سورة الزمر,Az-Zumar,The Groups,75,Meccan,1176,5132,15.68,68.42666666666666
+40,سورة غافر,Ghafir,The Forgiver,85,Meccan,1223,5385,14.388235294117647,63.35294117647059
+41,سورة فصلت,Fussilat,Explained in detail,54,Meccan,798,3585,14.777777777777779,66.38888888888889
+42,سورة الشورى,Ash-Shura,Consultation,53,Meccan,864,3747,16.30188679245283,70.69811320754717
+43,سورة الزخرف,Az-Zukhruf,Ornaments of gold,89,Meccan,834,3813,9.370786516853933,42.842696629213485
+44,سورة الدخان,Ad-Dukhaan,The Smoke,59,Meccan,350,1565,5.932203389830509,26.52542372881356
+45,سورة الجاثية,Al-Jaathiya,Crouching,37,Meccan,492,2213,13.297297297297296,59.810810810810814
+46,سورة الأحقاف,Al-Ahqaf,The Dunes,35,Meccan,647,2863,18.485714285714284,81.8
+47,سورة محمد,Muhammad,Muhammad,38,Medinan,543,2602,14.289473684210526,68.47368421052632
+48,سورة الفتح,Al-Fath,The Victory,29,Medinan,564,2618,19.448275862068964,90.27586206896552
+49,سورة الحجرات,Al-Hujuraat,The Inner Apartments,18,Medinan,351,1656,19.5,92.0
+50,سورة ق,Qaaf,The letter Qaaf,45,Meccan,377,1585,8.377777777777778,35.22222222222222
+51,سورة الذاريات,Adh-Dhaariyat,The Winnowing Winds,60,Meccan,364,1636,6.066666666666666,27.266666666666666
+52,سورة الطور,At-Tur,The Mount,49,Meccan,316,1397,6.448979591836735,28.510204081632654
+53,سورة النجم,An-Najm,The Star,62,Meccan,364,1580,5.870967741935484,25.483870967741936
+54,سورة القمر,Al-Qamar,The Moon,55,Meccan,346,1562,6.290909090909091,28.4
+55,سورة الرحمن,Ar-Rahmaan,The Beneficent,78,Medinan,355,1759,4.551282051282051,22.55128205128205
+56,سورة الواقعة,Al-Waaqia,The Inevitable,96,Meccan,383,1832,3.9895833333333335,19.083333333333332
+57,سورة الحديد,Al-Hadid,The Iron,29,Medinan,578,2687,19.93103448275862,92.65517241379311
+58,سورة المجادلة,Al-Mujaadila,The Pleading Woman,22,Medinan,476,2187,21.636363636363637,99.4090909090909
+59,سورة الحشر,Al-Hashr,The Exile,24,Medinan,449,2097,18.708333333333332,87.375
+60,سورة الممتحنة,Al-Mumtahana,She that is to be examined,13,Medinan,352,1663,27.076923076923077,127.92307692307692
+61,سورة الصف,As-Saff,The Ranks,14,Medinan,225,1039,16.071428571428573,74.21428571428571
+62,سورة الجمعة,Al-Jumu'a,Friday,11,Medinan,179,830,16.272727272727273,75.45454545454545
+63,سورة المنافقون,Al-Munaafiqoon,The Hypocrites,11,Medinan,184,863,16.727272727272727,78.45454545454545
+64,سورة التغابن,At-Taghaabun,Mutual Disillusion,18,Medinan,245,1171,13.61111111111111,65.05555555555556
+65,سورة الطلاق,At-Talaaq,Divorce,12,Medinan,291,1287,24.25,107.25
+66,سورة التحريم,At-Tahrim,The Prohibition,12,Medinan,253,1178,21.083333333333332,98.16666666666667
+67,سورة الملك,Al-Mulk,The Sovereignty,30,Meccan,337,1428,11.233333333333333,47.6
+68,سورة القلم,Al-Qalam,The Pen,52,Meccan,304,1365,5.846153846153846,26.25
+69,سورة الحاقة,Al-Haaqqa,The Reality,52,Meccan,262,1196,5.038461538461538,23.0
+70,سورة المعارج,Al-Ma'aarij,The Ascending Stairways,44,Meccan,221,1038,5.0227272727272725,23.59090909090909
+71,سورة نوح,Nooh,Noah,28,Meccan,230,1025,8.214285714285714,36.607142857142854
+72,سورة الجن,Al-Jinn,The Jinn,28,Meccan,289,1194,10.321428571428571,42.642857142857146
+73,سورة المزمل,Al-Muzzammil,The Enshrouded One,20,Meccan,203,913,10.15,45.65
+74,سورة المدثر,Al-Muddaththir,The Cloaked One,56,Meccan,259,1103,4.625,19.696428571428573
+75,سورة القيامة,Al-Qiyaama,The Resurrection,40,Meccan,168,747,4.2,18.675
+76,سورة الانسان,Al-Insaan,Man,31,Medinan,247,1151,7.967741935483871,37.12903225806452
+77,سورة المرسلات,Al-Mursalaat,The Emissaries,50,Meccan,185,890,3.7,17.8
+78,سورة النبإ,An-Naba,The Announcement,40,Meccan,177,839,4.425,20.975
+79,سورة النازعات,An-Naazi'aat,Those who drag forth,46,Meccan,183,866,3.9782608695652173,18.82608695652174
+80,سورة عبس,Abasa,He frowned,42,Meccan,137,619,3.261904761904762,14.738095238095237
+81,سورة التكوير,At-Takwir,The Overthrowing,29,Meccan,108,464,3.7241379310344827,16.0
+82,سورة الإنفطار,Al-Infitaar,The Cleaving,19,Meccan,84,363,4.421052631578948,19.105263157894736
+83,سورة المطففين,Al-Mutaffifin,Defrauding,36,Meccan,173,817,4.805555555555555,22.694444444444443
+84,سورة الإنشقاق,Al-Inshiqaaq,The Splitting Open,25,Meccan,111,493,4.44,19.72
+85,سورة البروج,Al-Burooj,The Constellations,22,Meccan,113,509,5.136363636363637,23.136363636363637
+86,سورة الطارق,At-Taariq,The Morning Star,17,Meccan,65,288,3.823529411764706,16.941176470588236
+87,سورة الأعلى,Al-A'laa,The Most High,19,Meccan,76,343,4.0,18.05263157894737
+88,سورة الغاشية,Al-Ghaashiya,The Overwhelming,26,Meccan,96,410,3.6923076923076925,15.76923076923077
+89,سورة الفجر,Al-Fajr,The Dawn,30,Meccan,141,633,4.7,21.1
+90,سورة البلد,Al-Balad,The City,20,Meccan,86,381,4.3,19.05
+91,سورة الشمس,Ash-Shams,The Sun,15,Meccan,58,289,3.8666666666666667,19.266666666666666
+92,سورة الليل,Al-Lail,The Night,21,Meccan,75,367,3.5714285714285716,17.476190476190474
+93,سورة الضحى,Ad-Dhuhaa,The Morning Hours,11,Meccan,44,198,4.0,18.0
+94,سورة الشرح,Ash-Sharh,The Consolation,8,Meccan,31,124,3.875,15.5
+95,سورة التين,At-Tin,The Fig,8,Meccan,38,187,4.75,23.375
+96,سورة العلق,Al-Alaq,The Clot,19,Meccan,76,329,4.0,17.31578947368421
+97,سورة القدر,Al-Qadr,"The Power, Fate",5,Meccan,34,140,6.8,28.0
+98,سورة البينة,Al-Bayyina,The Evidence,8,Medinan,98,457,12.25,57.125
+99,سورة الزلزلة,Az-Zalzala,The Earthquake,8,Medinan,40,182,5.0,22.75
+100,سورة العاديات,Al-Aadiyaat,The Chargers,11,Meccan,44,197,4.0,17.90909090909091
+101,سورة القارعة,Al-Qaari'a,The Calamity,11,Meccan,40,188,3.6363636363636362,17.09090909090909
+102,سورة التكاثر,At-Takaathur,Competition,8,Meccan,32,145,4.0,18.125
+103,سورة العصر,Al-Asr,"The Declining Day, Epoch",3,Meccan,18,98,6.0,32.666666666666664
+104,سورة الهمزة,Al-Humaza,The Traducer,9,Meccan,37,162,4.111111111111111,18.0
+105,سورة الفيل,Al-Fil,The Elephant,5,Meccan,27,118,5.4,23.6
+106,سورة قريش,Quraish,Quraysh,4,Meccan,21,103,5.25,25.75
+107,سورة الماعون,Al-Maa'un,Almsgiving,7,Meccan,29,137,4.142857142857143,19.571428571428573
+108,سورة الكوثر,Al-Kawthar,Abundance,3,Meccan,14,64,4.666666666666667,21.333333333333332
+109,سورة الكافرون,Al-Kaafiroon,The Disbelievers,6,Meccan,30,127,5.0,21.166666666666668
+110,سورة النصر,An-Nasr,Divine Support,3,Medinan,23,103,7.666666666666667,34.333333333333336
+111,سورة المسد,Al-Masad,The Palm Fibre,5,Meccan,27,108,5.4,21.6
+112,سورة الإخلاص,Al-Ikhlaas,Sincerity,4,Meccan,19,69,4.75,17.25
+113,سورة الفلق,Al-Falaq,The Dawn,5,Meccan,27,93,5.4,18.6
+114,سورة الناس,An-Naas,Mankind,6,Meccan,24,101,4.0,16.833333333333332
